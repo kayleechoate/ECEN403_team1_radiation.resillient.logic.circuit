@@ -1,3 +1,4 @@
-# ECEN403_team1_radiation.resillient.logic.circuit
+# ECEN 403-904
+# Team 1: Radiation Resilient Logic Circuit Study based on Wide Bandgap Devices
 
-Week 1 (9/18-9/22):
+This repository contains all the reports and presentations regarding this capstone project.

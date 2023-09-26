@@ -26,3 +26,4 @@ Week (9/25-9/29):
 - Presented Midterm Presentation (9/25)
 - Working on Functional System Requirements
 - Working on Interface Control Document
+- Editing Validation and Execution Plan based on feedback from Midterm Presentatiton

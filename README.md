@@ -22,6 +22,11 @@ Kaylee:
 - Researched tests for validation plan for ring oscillator
 - Completed purpose and scope for FSR
 
+Nia:
+- Worked on problem statement, subsystem progress, and task partition slides for midterm presentation
+- Researched 1x4 SRAM Memory Cell Array validation tests
+- Noted system requirements and constraints in FSR and ICD
+
 Week (9/25-9/29):
 - Presented Midterm Presentation (9/25)
 - Working on Functional System Requirements

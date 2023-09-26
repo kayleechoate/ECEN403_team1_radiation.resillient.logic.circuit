@@ -18,8 +18,8 @@ Nomar:
 
 Kaylee:
 - Worked on solution proposal, subsystem progress, and task partition slides for midterm presentation
-- researched tests for validation plan for ring oscillator
-- completed purpose and scope for FSR
+- Researched tests for validation plan for ring oscillator
+- Completed purpose and scope for FSR
 
 Week (9/25-9/29):
 - Presented Midterm Presentation (9/25)

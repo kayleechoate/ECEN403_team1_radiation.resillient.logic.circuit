@@ -25,7 +25,7 @@ Kaylee:
 Nia:
 - Worked on problem statement, subsystem progress, and task partition slides for midterm presentation
 - Researched 1x4 SRAM Memory Cell Array validation tests
-- Noted system requirements and constraints in FSR and ICD
+- Noted interfacing ideas and constraints in ICD
 
 Week (9/25-9/29):
 - Presented Midterm Presentation (9/25)

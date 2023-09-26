@@ -15,6 +15,7 @@ Week (9/18-9/22):
 Nomar:
 - Completed Execution Plan for Midterm Presentation
 - Researched 4:1 MUX validation tests for the Validation Plan
+- Began finalizing electrical and physical requirements of MUX for FSR
 
 Kaylee:
 - Worked on solution proposal, subsystem progress, and task partition slides for midterm presentation

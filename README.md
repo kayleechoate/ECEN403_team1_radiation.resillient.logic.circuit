@@ -11,3 +11,12 @@ Week (9/18-9/22):
 -Worked on the Execution Plan
 -Worked on the Validation Plan
 -Met with Sandia Sponsor (9/22)
+
+Nomar:
+-Completed Execution Plan for Midterm Presentation
+-Researched 4:1 MUX validation tests for the Validation Plan
+
+Week (9/25-9/29):
+-Presented Midterm Presentation (9/25)
+-Working on Functional System Requirements
+-Working on Interface Control Document

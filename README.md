@@ -16,6 +16,11 @@ Nomar:
 -Completed Execution Plan for Midterm Presentation
 -Researched 4:1 MUX validation tests for the Validation Plan
 
+Kaylee:
+- Worked on solution proposal, subsystem progress, and task partition slides for midterm presentation
+- researched tests for validation plan for subsystem
+- completed purpose and scope for FSR
+
 Week (9/25-9/29):
 -Presented Midterm Presentation (9/25)
 -Working on Functional System Requirements

@@ -32,3 +32,9 @@ Week (9/25-9/29):
 - Working on Functional System Requirements
 - Working on Interface Control Document
 - Editing Validation and Execution Plan based on feedback from Midterm Presentatiton
+
+Week (10/2-10/6):
+- Working on the finalization of circuit schematics
+- Working on circuit simulations in LTSpice
+- Research converting PMOS to NMOS transistors
+  

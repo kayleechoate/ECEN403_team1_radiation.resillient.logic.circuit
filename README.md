@@ -29,9 +29,14 @@ Nia:
 
 Week (9/25-9/29):
 - Presented Midterm Presentation (9/25)
-- Working on Functional System Requirements
-- Working on Interface Control Document
-- Editing Validation and Execution Plan based on feedback from Midterm Presentatiton
+- Worked on Functional System Requirements
+- Worked on Interface Control Document
+- Edited Validation and Execution Plan based on feedback from Midterm Presentatiton
+
+Nomar:
+- Completed the Thermal Interface, User Control Interface, and Communication Sections in the ICD
+- Outlined the physical and electrical requirements of the 4:1 MUX in the FSR
+- Described the support requirements in the FSR
 
 Week (10/2-10/6):
 - Working on the finalization of circuit schematics

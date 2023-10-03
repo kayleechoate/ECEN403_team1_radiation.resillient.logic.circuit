@@ -43,6 +43,11 @@ Week (9/25-9/29):
     - Completed functional, electrical and physical requirements for the seven stage ring oscillator in FSR
     - Completed Primary Input Power, Signal Interfaces, and Dimension section in the ICD
 
+    Nia:
+    - Worked on Overview and Physical Characteristics in the ICD
+    - Detailed the functional, physical and electrical requirements of the SRAM array in the FSR
+    - Created first iteration of SRAM array layout
+
 Week (10/2-10/6):
 - Working on the finalization of circuit schematics
 - Working on circuit simulations in LTSpice

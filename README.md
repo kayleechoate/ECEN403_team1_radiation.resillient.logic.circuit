@@ -12,20 +12,20 @@ Week (9/18-9/22):
 - Worked on the Validation Plan
 - Met with Sandia Sponsor (9/22)
 
-Nomar:
-- Completed Execution Plan for Midterm Presentation
-- Researched 4:1 MUX validation tests for the Validation Plan
-- Began finalizing electrical and physical requirements of MUX for FSR
-
-Kaylee:
-- Worked on solution proposal, subsystem progress, and task partition slides for midterm presentation
-- Researched tests for validation plan for ring oscillator
-- Completed purpose and scope for FSR
-
-Nia:
-- Worked on problem statement, subsystem progress, and task partition slides for midterm presentation
-- Researched 1x4 SRAM Memory Cell Array validation tests
-- Noted interfacing ideas and constraints in ICD
+    Nomar:
+    - Completed Execution Plan for Midterm Presentation
+    - Researched 4:1 MUX validation tests for the Validation Plan
+    - Began finalizing electrical and physical requirements of MUX for FSR
+    
+    Kaylee:
+    - Worked on solution proposal, subsystem progress, and task partition slides for midterm presentation
+    - Researched tests for validation plan for ring oscillator
+    - Completed purpose and scope for FSR
+    
+    Nia:
+    - Worked on problem statement, subsystem progress, and task partition slides for midterm presentation
+    - Researched 1x4 SRAM Memory Cell Array validation tests
+    - Noted interfacing ideas and constraints in ICD
 
 Week (9/25-9/29):
 - Presented Midterm Presentation (9/25)
@@ -33,10 +33,15 @@ Week (9/25-9/29):
 - Worked on Interface Control Document
 - Edited Validation and Execution Plan based on feedback from Midterm Presentatiton
 
-Nomar:
-- Completed the Thermal Interface, User Control Interface, and Communication Sections in the ICD
-- Outlined the physical and electrical requirements of the 4:1 MUX in the FSR
-- Described the support requirements in the FSR
+    Nomar:
+    - Completed the Thermal Interface, User Control Interface, and Communication Sections in the ICD
+    - Outlined the functional, physical and electrical requirements of the 4:1 MUX in the FSR
+    - Described the Support requirements in the FSR
+ 
+    Kaylee: 
+    - Completed Reference Documents, System Definition overview and ring oscillator paragraph, and Failure Propagation for FSR
+    - Completed functional, electrical and physical requirements for the seven stage ring oscillator in FSR
+    - Completed Primary Input Power, Signal Interfaces, and Dimension section in the ICD
 
 Week (10/2-10/6):
 - Working on the finalization of circuit schematics

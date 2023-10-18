@@ -51,5 +51,46 @@ Week (9/25-9/29):
 Week (10/2-10/6):
 - Working on the finalization of circuit schematics
 - Working on circuit simulations in LTSpice
-- Research converting PMOS to NMOS transistors
-  
+- Researching converting PMOS to NMOS transistors
+
+    Nomar:
+    - 
+ 
+    Kaylee: 
+    - 
+
+    Nia:
+    - Researching additional circuitry for SRAM read/write
+    - Working on LTSpice schematic and simulations for SRAM array using general MOSFETs
+
+Week (10/9-10/13):
+- Continuing LTSpice schematics and simulations
+- Worked on Status Update Presentation
+- Preliminary PCB layout design
+- Attended Blitz to make progress on schematics, simulations, and layout design
+
+    Nomar:
+    - 
+ 
+    Kaylee: 
+    - 
+
+    Nia:
+    - Confirmed proper operation of each cell in general MOSFET SRAM array in simulations
+    - Working on proper operation for full array row (switching 1 pair of write and write_ circuits among all 4 cells)
+    - Started GaN version of SRAM array schematic
+
+Week (10/16-10/20):
+- Continuing LTSpice schematics and simulations
+- Ordering parts for PCB (GaN FETs)
+- PCB Designing in Altium
+
+    Nomar:
+    - 
+ 
+    Kaylee: 
+    - 
+
+    Nia:
+    - Working on full array row simulations
+    - Working on GaN single cell simulations

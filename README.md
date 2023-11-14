@@ -138,7 +138,7 @@ Week (11/06-11/10):
 - PCB Reorder
   
     Nomar:
-    - Reordered PCB because transistor footprints were inverted
+    - Reordered PCB (transistor footprints were inverted)
  
     Kaylee: 
     - PCB Soldering

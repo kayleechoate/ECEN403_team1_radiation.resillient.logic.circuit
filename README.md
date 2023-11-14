@@ -115,9 +115,7 @@ Week (10/23-10/27):
 
 Week (10/30-11/03):
 - Research on radiation testing
-- Determined how to simulate effect of radiation during board testing
--     AC pulse
--     prolonged DC charge
+- Determined how to simulate effect of radiation during board testing (AC pulse, prolonged DC charge)
 - Received PCBs
 - Received parts from Digikey and picked up transistors from Sandia
 - Began soldering

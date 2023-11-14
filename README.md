@@ -152,13 +152,13 @@ Week (11/13-11/17):
 - PCB Reorder
 
     Nomar:
-    - 
+    - PCB
  
     Kaylee: 
-    - 
+    - PCB reorder (switch wired incorrectly)
 
     Nia:
     - Preliminary PCB testing: test operation of write circuits and 1 SRAM cell
-    - Typed up basic report of test results
-    - MAYBE: finish soldering other 3 cells if testing goes well
+    - TO DO: type up basic report of test results
+    - TO DO: finish soldering other 3 cells if testing goes well
 

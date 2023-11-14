@@ -96,3 +96,71 @@ Week (10/16-10/20):
     Nia:
     - Working on full array row simulations
     - Working on GaN single cell simulations
+
+Week (10/23-10/27):
+- Finalize PCB design
+- Order PCB (deadline extended to 10/24)
+
+    Nomar:
+    - Finalized PCB Design
+    - Ordered PCB on 10/24
+ 
+    Kaylee: 
+    - Finalized PCB Design
+    - Ordered PCB on 10/24
+ 
+    Nia:
+    - Finalized PCB Design
+    - Ordered PCB on 10/24
+
+Week (10/30-11/03):
+- Research on radiation testing
+- Determined how to simulate effect of radiation during board testing
+-     AC pulse
+-     prolonged DC charge
+- Received PCBs
+- Received parts from Digikey and picked up transistors from Sandia
+- Began soldering
+
+    Nomar:
+    - Received PCB
+    - Received parts
+ 
+    Kaylee: 
+    - Received PCB
+    - Received parts
+
+    Nia:
+    - Received PCB
+    - Received parts
+    - Began soldering
+
+Week (11/06-11/10):
+- PCB Soldering
+- PCB Reorder
+  
+    Nomar:
+    - Reordered PCB because transistor footprints were inverted
+ 
+    Kaylee: 
+    - PCB Soldering
+
+    Nia:
+    - PCB Soldering
+
+Week (11/13-11/17):
+- PCB Soldering
+- PCB Testing
+- PCB Reorder
+
+    Nomar:
+    - 
+ 
+    Kaylee: 
+    - 
+
+    Nia:
+    - Preliminary PCB testing: test operation of write circuits and 1 SRAM cell
+    - Typed up basic report of test results
+    - MAYBE: finish soldering other 3 cells if testing goes well
+

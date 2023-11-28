@@ -31,7 +31,7 @@ Week (9/25-9/29):
 - Presented Midterm Presentation (9/25)
 - Worked on Functional System Requirements
 - Worked on Interface Control Document
-- Edited Validation and Execution Plan based on feedback from Midterm Presentatiton
+- Edited Validation and Execution Plan based on feedback from Midterm Presentation
 
     Nomar:
     - Completed the Thermal Interface, User Control Interface, and Communication Sections in the ICD
@@ -115,13 +115,17 @@ Week (10/23-10/27):
 
 Week (10/30-11/03):
 - Research on radiation testing
-- Determined how to simulate effect of radiation during board testing (AC pulse, prolonged DC         charge)
+- Determined how to simulate effect of radiation during board testing (AC pulse, prolonged DC charge)
 - Received PCBs
 - Received parts from Digikey and picked up transistors from Sandia
 - Began soldering
 
     Nomar:
-    - Received PCB on 11/1
+    - Received PCB
+    - Upon arrival and inspection, 4 out of the 6 transistors had their pads mirrored in Altium Designer to create a symmetrical 
+      design which resulted in the physical transistor pads not aligning with the mirrored pads on the PCB
+    - Began working on a new design that does not require the transistor pads to be mirrored, instead only rotated
+    - Restarting PCB allowed for smarter and more calculated placement of components based on previous mistakes
     - Received parts
  
     Kaylee: 
@@ -138,7 +142,11 @@ Week (11/06-11/10):
 - PCB Reorder
   
     Nomar:
-    - Reordered PCB (transistor footprints were inverted)
+    - Created 2nd Revision of 4:1 MUX PCB with the resistors closer together and the transistor pads oriented correctly
+    - Edited the resistor pad layout for easier and faster soldering, will look to implement into all 3 PCB designs in 404
+    - Increased via size to allow for larger currents as well as added radiation injection test points
+    - Reordered PCB from JLCPCB
+    - Began practicing soldering with the small surface mount GaN transistors
  
     Kaylee: 
     - PCB Soldering
@@ -152,10 +160,10 @@ Week (11/13-11/17):
 - PCB Reorder
 
     Nomar:
-    - 2nd Revision of PCB with corrected transistor orientation received on 11/15
+    - 2nd Revision of PCB with corrected transistor orientation received
     - Soldered PCB with new transistor and resistor pad layouts
-    - Shorted LEDs on PCB for user interface because there was too much voltage drop, will work to        implement them in 404 design
-    - Applied power to PCB and began performing preliminary tests to verify the soldering
+    - Shorted LEDs on PCB for user interface because there was too much voltage drop, will work to implement them in 404 design
+    - Applied power to PCB and began performing preliminary tests to verify the soldering and circuit design
  
     Kaylee: 
     - PCB reorder (switch wired incorrectly)

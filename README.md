@@ -115,13 +115,13 @@ Week (10/23-10/27):
 
 Week (10/30-11/03):
 - Research on radiation testing
-- Determined how to simulate effect of radiation during board testing (AC pulse, prolonged DC charge)
+- Determined how to simulate effect of radiation during board testing (AC pulse, prolonged DC         charge)
 - Received PCBs
 - Received parts from Digikey and picked up transistors from Sandia
 - Began soldering
 
     Nomar:
-    - Received PCB
+    - Received PCB on 11/1
     - Received parts
  
     Kaylee: 
@@ -152,7 +152,10 @@ Week (11/13-11/17):
 - PCB Reorder
 
     Nomar:
-    - PCB
+    - 2nd Revision of PCB with corrected transistor orientation received on 11/15
+    - Soldered PCB with new transistor and resistor pad layouts
+    - Shorted LEDs on PCB for user interface because there was too much voltage drop, will work to        implement them in 404 design
+    - Applied power to PCB and began performing preliminary tests to verify the soldering
  
     Kaylee: 
     - PCB reorder (switch wired incorrectly)

@@ -173,3 +173,19 @@ Week (11/13-11/17):
     - TO DO: type up basic report of test results
     - TO DO: finish soldering other 3 cells if testing goes well
 
+Week (11/20-11/28):
+- PCB Soldering
+- PCB Testing
+- DEMO DAY 11/28
+
+    Nomar:
+    - Finished PCB Testing
+    - Work on Final Report
+ 
+    Kaylee: 
+    - Finished PCB Testing
+    - Work on Final Report
+
+    Nia:
+    - Finished PCB Testing
+    - Work on Final Report

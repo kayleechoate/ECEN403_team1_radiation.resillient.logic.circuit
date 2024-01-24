@@ -5,17 +5,28 @@ This repository contains all the updates, reports, and presentations regarding t
 
 # Weekly Updates
 Week (1/16 - 1/19)
-
-Week (1/22 - 1/26)
-
 General:
-- Presented Status Update #1
+- Worked on Status Update Presentation #1
+- Contacted Sandia's sponsor to update them
 
 Kaylee:
 
 Nia:
 
 Nomar:
+- Researched gate drivers to verify 5V from gate to source
+- Looking into a source to ground 4:1 MUX design for better data stability
+
+Week (1/22 - 1/26)
+General:
+- Presented Status Update Presentation #1
+
+Kaylee:
+
+Nia:
+
+Nomar:
+- Began implementing 
 
 
 Week (1/29 - 2/2)

@@ -8,6 +8,16 @@ Week (1/16 - 1/19)
 
 Week (1/22 - 1/26)
 
+General:
+- Presented Status Update #1
+
+Kaylee:
+
+Nia:
+
+Nomar:
+
+
 Week (1/29 - 2/2)
 
 Week (2/5 - 2/9)

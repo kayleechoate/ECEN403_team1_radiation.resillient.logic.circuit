@@ -10,6 +10,8 @@ General:
 - Contacted Sandia's sponsor to update them after break
 
 Kaylee:
+- Researched implementation for a RC snubber
+- Working on adding the RC snubber to the schematic
 
 Nia:
 

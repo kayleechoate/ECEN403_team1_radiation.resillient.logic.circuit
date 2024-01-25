@@ -7,7 +7,7 @@ This repository contains all the updates, reports, and presentations regarding t
 Week (1/16 - 1/19)
 General:
 - Worked on Status Update Presentation #1
-- Contacted Sandia's sponsor to update them
+- Contacted Sandia's sponsor to update them after break
 
 Kaylee:
 

@@ -41,6 +41,8 @@ General:
 Kaylee:
 
 Nia:
+- Modified existing PCB (opened and shorted traces) to new circuit design
+- Tested modified circuit on bench
 
 Nomar:
 

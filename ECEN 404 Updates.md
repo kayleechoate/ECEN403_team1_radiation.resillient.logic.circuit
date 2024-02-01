@@ -27,6 +27,8 @@ General:
 - Discussed circuit modifications with Sandia sponsor
 
 Kaylee:
+- Simulated a voltage spike in ltspice similar to the the voltage spike in the output of the ring oscillator
+- implemented the RC snubber in ltspice to correct the voltage spike
 
 Nia:
 - Modified circuit in LTSpice and verified correct operation in simulations
@@ -41,6 +43,8 @@ General:
 - Troubleshoot PCBs to begin implementing circuit modifications
 
 Kaylee:
+-implementing a RCD snubber instead of RC snubber because its more robust
+-working on finding exact values to use for the resistor and capacitor in the RC snubber
 
 Nia:
 - Modified existing PCB (opened and shorted traces) to new circuit design

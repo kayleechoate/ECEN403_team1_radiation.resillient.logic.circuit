@@ -32,11 +32,13 @@ Nia:
 - Modified circuit in LTSpice and verified correct operation in simulations
 
 Nomar:
-- Began implementing 
+- Began implementing
 
 
 Week (1/29 - 2/2)
 General:
+- Testing gate driver, decoupling capacitor, and RC snubber circuits in LTSpice
+- Troubleshoot PCBs to begin implementing circuit modifications
 
 Kaylee:
 
@@ -45,6 +47,9 @@ Nia:
 - Tested modified circuit on bench
 
 Nomar:
+- Tested voltage divider gate driver in LTSpice, with minimal success
+- Powered up PCB and troubleshot by measuring voltages at different locations
+- TA advised looking into a decoupling capacitor to smoothen spikes in the output waveform
 
 Week (2/5 - 2/9)
 General:

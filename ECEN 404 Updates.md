@@ -43,12 +43,13 @@ General:
 - Troubleshoot PCBs to begin implementing circuit modifications
 
 Kaylee:
--implementing a RCD snubber instead of RC snubber because its more robust
--working on finding exact values to use for the resistor and capacitor in the RC snubber
+- Implementing a RCD snubber instead of RC snubber because its more robust
+- Working on finding exact values to use for the resistor and capacitor in the RC snubber
 
 Nia:
 - Modified existing PCB (opened and shorted traces) to new circuit design
 - Tested modified circuit on bench
+- Successful switching and latching of significant low (~300mV) and high (~1.6V) values
 
 Nomar:
 - Tested voltage divider gate driver in LTSpice, with minimal success

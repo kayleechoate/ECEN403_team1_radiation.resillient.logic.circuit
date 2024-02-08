@@ -67,6 +67,9 @@ General:
 - Began/continued integrated system design
   
 Kaylee:
+- Modified Altium design for addition of RCD snubber
+- Ordered new PCB for testing of RCD snubber
+- Working on integrated LTspice design
 
 Nia:
 - Update individual subsystem LTSpice and Altium with new design

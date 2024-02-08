@@ -5,6 +5,7 @@ This repository contains all the updates, reports, and presentations regarding t
 
 # Weekly Updates
 Week (1/16 - 1/19)
+
 General:
 - Worked on Status Update Presentation #1
 - Contacted Sandia's sponsor to update them after break
@@ -22,6 +23,7 @@ Nomar:
 - Looking into a source to ground 4:1 MUX design for better data stability
 
 Week (1/22 - 1/26)
+
 General:
 - Presented Status Update Presentation #1
 - Discussed circuit modifications with Sandia sponsor
@@ -38,6 +40,7 @@ Nomar:
 
 
 Week (1/29 - 2/2)
+
 General:
 - Testing gate driver, decoupling capacitor, and RC snubber circuits in LTSpice
 - Troubleshoot PCBs to begin implementing circuit modifications
@@ -57,6 +60,7 @@ Nomar:
 - TA advised looking into a decoupling capacitor to smoothen spikes in the output waveform
 
 Week (2/5 - 2/9)
+
 General:
 - Presented Status Update 2
 - Finished individual subsystem modifications
@@ -71,6 +75,7 @@ Nia:
 Nomar:
 
 Week (2/12 - 2/16)
+
 General:
 
 Kaylee:
@@ -80,6 +85,7 @@ Nia:
 Nomar:
 
 Week (2/19 - 2/23)
+
 General:
 
 Kaylee:
@@ -89,6 +95,7 @@ Nia:
 Nomar:
 
 Week (2/26 - 3/1)
+
 General:
 
 Kaylee:
@@ -98,6 +105,7 @@ Nia:
 Nomar:
 
 Week (3/4 - 3/8)
+
 General:
 
 Kaylee:
@@ -107,6 +115,7 @@ Nia:
 Nomar:
 
 Week (3/11 - 3/15)
+
 General:
 
 Kaylee:
@@ -116,6 +125,7 @@ Nia:
 Nomar:
 
 Week (3/18 - 3/22)
+
 General:
 
 Kaylee:
@@ -125,6 +135,7 @@ Nia:
 Nomar:
 
 Week (3/25 - 3/29)
+
 General:
 
 Kaylee:
@@ -134,6 +145,7 @@ Nia:
 Nomar:
 
 Week (4/1 - 4/5)
+
 General:
 
 Kaylee:
@@ -143,6 +155,7 @@ Nia:
 Nomar:
 
 Week (4/8 - 4/12)
+
 General:
 
 Kaylee:
@@ -152,6 +165,7 @@ Nia:
 Nomar:
 
 Week (4/15 - 4/19)
+
 General:
 
 Kaylee:
@@ -161,6 +175,7 @@ Nia:
 Nomar:
 
 Week (4/22 - 4/26)
+
 General:
 
 Kaylee:
@@ -170,6 +185,7 @@ Nia:
 Nomar:
 
 Week (4/29 - 5/3)
+
 General:
 
 Kaylee:

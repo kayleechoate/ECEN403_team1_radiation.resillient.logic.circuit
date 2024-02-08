@@ -58,10 +58,14 @@ Nomar:
 
 Week (2/5 - 2/9)
 General:
-
+- Presented Status Update 2
+- Finished individual subsystem modifications
+- Began/continued integrated system design
 Kaylee:
 
 Nia:
+- Update individual subsystem LTSpice and Altium with new design
+- Worked on integrated system LTSpice and verified correct total system function
 
 Nomar:
 

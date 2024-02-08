@@ -61,6 +61,7 @@ General:
 - Presented Status Update 2
 - Finished individual subsystem modifications
 - Began/continued integrated system design
+  
 Kaylee:
 
 Nia:

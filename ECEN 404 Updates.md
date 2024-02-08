@@ -62,7 +62,7 @@ Nomar:
 Week (2/5 - 2/9)
 
 General:
-- Presented Status Update 2
+- Presented Status Update Presentation #2
 - Finished individual subsystem modifications
 - Began/continued integrated system design
   

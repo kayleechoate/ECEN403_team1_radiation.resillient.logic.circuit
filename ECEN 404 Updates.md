@@ -73,6 +73,10 @@ Nia:
 - Worked on integrated system LTSpice and verified correct total system function
 
 Nomar:
+- Implemented decoupling capacitor at the output of MUX in LTSpice
+- Decoupling capacitor greatly improved voltage spikes in low value (see presentation #2)
+- Tested decoupling capacitor using the PCB on test bench, with positive results
+- Continue working on integrated LTSpice design
 
 Week (2/12 - 2/16)
 

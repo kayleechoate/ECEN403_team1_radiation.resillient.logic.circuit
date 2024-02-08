@@ -49,7 +49,7 @@ Kaylee:
 Nia:
 - Modified existing PCB (opened and shorted traces) to new circuit design
 - Tested modified circuit on bench
-- Successful switching and latching of significant low (~300mV) and high (~1.6V) values
+- Successful switching and latching of significant low (~100mV) and high (~1.6V) values
 
 Nomar:
 - Tested voltage divider gate driver in LTSpice, with minimal success

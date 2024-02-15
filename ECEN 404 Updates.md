@@ -84,12 +84,12 @@ Nomar:
 Week (2/12 - 2/16)
 
 General:
--Worked on integrated LTspice design
--Verified functionality of integrated LTspice design
+- Worked on integrated LTspice design
+- Verified functionality of integrated LTspice design
 
 Kaylee:
--Worked on integrated system LTspice design
--Waiting for PCB to come in 
+- Worked on integrated system LTspice design
+- Waiting for PCB to come in 
 
 Nia:
 

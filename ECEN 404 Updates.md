@@ -88,22 +88,31 @@ General:
 - Verified functionality of integrated LTspice design
 
 Kaylee:
-- Worked on integrated system LTspice design
+- Worked on integrated system LTSpice design
 - Waiting for PCB to come in 
 
 Nia:
+- Worked on integrated system LTSpice design
+- Finalized subsystem PCB design
 
 Nomar:
+- Worked on integrated system LTSpice design
+- Started integrated system Altium Design
 
 Week (2/19 - 2/23)
 
 General:
+- Integrated system Altium design
 
 Kaylee:
+- Collaborated on integrated Altium design
 
 Nia:
+- Collaborated on integrated Altium design
+- Placed PCB order, waiting for arrival
 
 Nomar:
+- Collaborated on integrated Altium design
 
 Week (2/26 - 3/1)
 

@@ -97,12 +97,13 @@ Nia:
 
 Nomar:
 - Worked on integrated system LTSpice design
-- Started integrated system Altium Design
-
+- Started integrated system schematic on Altium Designer
+  
 Week (2/19 - 2/23)
 
 General:
 - Integrated system Altium design
+- Presented Status Update Presentation #3
 
 Kaylee:
 - Collaborated on integrated Altium design
@@ -113,6 +114,9 @@ Nia:
 
 Nomar:
 - Collaborated on integrated Altium design
+- Finished integrated system LTSpice schematic and simulations
+- Completed 4:1 MUX integrated system schematic on Altium
+- Began working on final integrated system PCB
 
 Week (2/26 - 3/1)
 

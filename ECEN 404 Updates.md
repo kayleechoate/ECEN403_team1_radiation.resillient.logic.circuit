@@ -38,7 +38,6 @@ Nia:
 Nomar:
 - Began implementing
 
-
 Week (1/29 - 2/2)
 
 General:
@@ -121,30 +120,30 @@ Nomar:
 Week (2/26 - 3/1)
 
 General:
+- Individual PCB assembly
+- Integrated system PCB design (during Blitz)
 
 Kaylee:
 
 Nia:
+- Ordered individual PCB
+- Worked on integrated PCB layout in Altium
 
 Nomar:
 
 Week (3/4 - 3/8)
 
 General:
+- Finalized subsystem PCBs (assembly and testing)
+- Shipped to Sandia
+- Ordered integrated PCB layout
 
 Kaylee:
 
 Nia:
-
-Nomar:
-
-Week (3/11 - 3/15)
-
-General:
-
-Kaylee:
-
-Nia:
+- Assembled subsystem PCB
+- Tested subsystem PCB
+- Finalized integrated subsystem PCB layout
 
 Nomar:
 

@@ -137,6 +137,7 @@ General:
 - Finalized subsystem PCBs (assembly and testing)
 - Shipped to Sandia
 - Ordered integrated PCB layout
+- Began writing User Manual
 
 Kaylee:
 

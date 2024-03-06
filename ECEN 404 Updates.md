@@ -120,10 +120,13 @@ Nomar:
 Week (2/26 - 3/1)
 
 General:
-- Individual PCB assembly
+- Individual PCB assembly/ordering
 - Integrated system PCB design (during Blitz)
 
 Kaylee:
+- Ordered parts
+- Assembled individual PCB
+- Worked on integrated PCB layout in Altium
 
 Nia:
 - Ordered individual PCB
@@ -141,17 +144,21 @@ General:
 - Finalized subsystem PCBs (assembly and testing)
 - Shipped to Sandia
 - Ordered integrated PCB layout
-- Began writing User Manual
+- Began writing User Manual for Sandia radiation testing
 
 Kaylee:
+- Finished assembling PCB layout
+- Tested/validated PCB with RCD snubber
+- Worked on oscillator section of User Manual
 
 Nia:
 - Assembled subsystem PCB
 - Tested subsystem PCB
 - Finalized integrated subsystem PCB layout
+- Worked on SRAM Array section of User Manual
 
 Nomar:
-- Completed 4:1 User Manual for Sandia radiation testing
+- Completed 4:1 Multiplexer section of User Manual
 - Finalized Integrated Altium PCB
 
 Week (3/18 - 3/22)

@@ -130,10 +130,14 @@ Nia:
 - Worked on integrated PCB layout in Altium
 
 Nomar:
+- Worked on Integrated PCB layout in Altium
+- Verified 4:1 MUX to send to Sandia
+- Worked on User Manual for 4:1 MUX for Sandia radiation testing
 
 Week (3/4 - 3/8)
 
 General:
+- Presented Status Update #4
 - Finalized subsystem PCBs (assembly and testing)
 - Shipped to Sandia
 - Ordered integrated PCB layout
@@ -147,6 +151,8 @@ Nia:
 - Finalized integrated subsystem PCB layout
 
 Nomar:
+- Completed 4:1 User Manual for Sandia radiation testing
+- Finalized Integrated Altium PCB
 
 Week (3/18 - 3/22)
 

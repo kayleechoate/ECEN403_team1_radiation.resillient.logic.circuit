@@ -169,6 +169,8 @@ General:
 - Began soldering integrated PCB
   
 Kaylee:
+- Tested new capacitor values for ring oscillator
+- Began soldering integrated PCB
 
 Nia:
 

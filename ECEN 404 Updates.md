@@ -164,13 +164,18 @@ Nomar:
 Week (3/18 - 3/22)
 
 General:
-
+- Received integrated PCB from JLCPCB
+- Sandia received the individual test PCBs
+- Began soldering integrated PCB
+  
 Kaylee:
 
 Nia:
 
 Nomar:
-
+- Began soldering integrated PCB
+- Ordered spare parts for integrated PCB
+  
 Week (3/25 - 3/29)
 
 General:

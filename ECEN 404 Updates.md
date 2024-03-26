@@ -155,7 +155,7 @@ Nia:
 - Assembled subsystem PCB
 - Tested subsystem PCB
 - Finalized integrated subsystem PCB layout
-- Worked on SRAM Array section of User Manual
+- Worked on SRAM array section of User Manual
 
 Nomar:
 - Completed 4:1 Multiplexer section of User Manual
@@ -167,24 +167,30 @@ General:
 - Received integrated PCB from JLCPCB
 - Sandia received the individual test PCBs
 - Began soldering integrated PCB
+- Working on User Manual
   
 Kaylee:
 - Tested new capacitor values for ring oscillator
-- Began soldering integrated PCB
+- Began soldering oscillator on integrated PCB
 
 Nia:
+- Began soldering SRAM array on integrated PCB
+- Worked on User Manual
 
 Nomar:
-- Began soldering integrated PCB
+- Began soldering multiplexer on integrated PCB
 - Ordered spare parts for integrated PCB
   
 Week (3/25 - 3/29)
 
 General:
+- Finished parts soldering
+- Began testing/validation
 
 Kaylee:
 
 Nia:
+- Finished soldering SRAM array on integrated PCB
 
 Nomar:
 
@@ -219,16 +225,6 @@ Nia:
 Nomar:
 
 Week (4/22 - 4/26)
-
-General:
-
-Kaylee:
-
-Nia:
-
-Nomar:
-
-Week (4/29 - 5/3)
 
 General:
 

@@ -184,13 +184,15 @@ Nomar:
 Week (3/25 - 3/29)
 
 General:
-- Finished parts soldering
-- Began testing/validation
+- Presented Status Update 5
+- Continued soldering integrated PCB
 
 Kaylee:
 
 Nia:
-- Finished soldering SRAM array on integrated PCB
+- Continued soldering SRAM array
+- Finished SRAM User Manual section
+- Created scenario validation plan
 
 Nomar:
 

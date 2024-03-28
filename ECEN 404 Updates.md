@@ -160,6 +160,7 @@ Nia:
 Nomar:
 - Completed 4:1 Multiplexer section of User Manual
 - Finalized Integrated Altium PCB
+- Ordered Integrated PCB
 
 Week (3/18 - 3/22)
 
@@ -184,7 +185,8 @@ Nomar:
 Week (3/25 - 3/29)
 
 General:
-- Presented Status Update 5
+- Presented Status Update #5
+- Sent Subsystem User Manuals to Sandia
 - Continued soldering integrated PCB
 
 Kaylee:
@@ -195,6 +197,8 @@ Nia:
 - Created scenario validation plan
 
 Nomar:
+- Continued soldering 4:1 MUX on integrated PCB
+- Waiting for additional parts to come in before finalizing PCB
 
 Week (4/1 - 4/5)
 

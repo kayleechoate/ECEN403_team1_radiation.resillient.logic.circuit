@@ -206,7 +206,8 @@ Week (4/1 - 4/5)
 
 General:
 - Continue soldering integrated PCB
-- Connected ring oscillator and SRAM with positive results
+- Received additional components
+- Connected ring oscillator and SRAM PCBs with positive results
 - Went over User Manual with Sandia sponsor
   
 Kaylee:

@@ -190,6 +190,8 @@ General:
 - Continued soldering integrated PCB
 
 Kaylee:
+- Tested additional capacitor values on individual subsystem
+- Began soldering ring oscillator on integrated PCB
 
 Nia:
 - Continued soldering SRAM array
@@ -203,12 +205,17 @@ Nomar:
 Week (4/1 - 4/5)
 
 General:
-
+- Continue soldering integrated PCB
+- Connected ring oscillator and SRAM with positive results
+- Went over User Manual with Sandia sponsor
+  
 Kaylee:
 
 Nia:
 
 Nomar:
+- Finished soldering 4:1 MUX on integrated PCB
+- Tested different LEDs for the user interface
 
 Week (4/8 - 4/12)
 

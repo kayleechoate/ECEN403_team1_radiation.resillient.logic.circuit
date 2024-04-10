@@ -233,7 +233,9 @@ Kaylee:
 Nia:
 
 Nomar:
-
+- Began testing and validation of 4:1 MUX on integrated PCB
+- Soldered LEDs onto integrated PCB with positive results
+  
 Week (4/15 - 4/19)
 
 General:

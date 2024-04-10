@@ -229,12 +229,14 @@ General:
 - Began integrated nominal operation testing and validation
   
 Kaylee:
-
+- Began testing and validation of ring oscillator on integrated PCB
+- Tested new capacitor values on integrated PCB to decrease frequency
+  
 Nia:
 
 Nomar:
 - Began testing and validation of 4:1 MUX on integrated PCB
-- Soldered LEDs onto integrated PCB with positive results
+- Soldered user interface LEDs onto integrated PCB with positive results
   
 Week (4/15 - 4/19)
 

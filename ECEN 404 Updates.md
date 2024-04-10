@@ -223,7 +223,10 @@ Nomar:
 Week (4/8 - 4/12)
 
 General:
-
+- Presented Final Presentation
+- Individual PCBs tested in radiation by Sandia
+- Began integrated nominal operation testing and validation
+  
 Kaylee:
 
 Nia:

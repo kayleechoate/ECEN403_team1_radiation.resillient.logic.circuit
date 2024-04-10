@@ -224,6 +224,7 @@ Week (4/8 - 4/12)
 
 General:
 - Presented Final Presentation
+- Finished soldering integrated PCB
 - Individual PCBs tested in radiation by Sandia
 - Began integrated nominal operation testing and validation
   

@@ -233,6 +233,9 @@ Kaylee:
 - Tested new capacitor values on integrated PCB to decrease frequency
   
 Nia:
+- Began testing and validation of SRAM array on integrated PCB
+- Cells are latching written values
+- High values are a little too low, looked up possible solutions to implement next lab session
 
 Nomar:
 - Began testing and validation of 4:1 MUX on integrated PCB

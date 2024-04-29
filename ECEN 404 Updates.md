@@ -244,19 +244,36 @@ Nomar:
 Week (4/15 - 4/19)
 
 General:
+- Worked on integrated system testing
+- Attempted radiation validation scenarios
+- Completed mock demo (4/17)
 
 Kaylee:
+- Finalized oscillator validation
 
 Nia:
+- Finalized SRAM array validation
+- Fixed high-low SRAM difference issue
 
 Nomar:
+- Finalized mux validation
 
 Week (4/22 - 4/26)
 
 General:
+- Obtained and analyzed radiation testing data from Sandia
+- Completed final demo (4/24)
+- Presented to ECEN advisory board (4/25)
+- Attended Engineering Project Showcase (4/26)
 
 Kaylee:
+- Worked on final demo slides
+- Prepared for ECEN advisory board presentation
 
 Nia:
+- Worked on EPS poster
+- Prepared for ECEN advisory board presentation
 
 Nomar:
+- Worked on final demo slides
+- Prepared for ECEN advisory board presentation
